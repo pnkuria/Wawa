@@ -1,0 +1,43 @@
+body {
+    background-image:url(/images/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+
+}
+
+#div-2 {
+    text-align: center;
+}
+
+h1 {
+    
+    color: #fff;
+    font-size: 100px;
+    margin-top: 100px;
+
+}
+
+p {
+    font-style: italic;
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar{
+    width:85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+    text-transform: uppercase;
+    color: #fff;
+}
+.btn {
+    border: 2px solid #fff;
+    padding: 4px;
+    border-radius: 25px;
+    font-size: 25px;
+}

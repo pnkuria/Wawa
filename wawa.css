@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-size: 150px;
+}
+
+body {
+    background-color: blueviolet;
+    background-image: url(images/wallpaperflare.com_wallpaper.jpg);    
+    background-position: center;
+    background-size:cover;
+
+}
+p {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.main {
+    border-style:groove;
+    border-radius: 150px;
+    border-color: blue;
+}
+
+.slider{
+    color: #fff;
+}
+
+input {
+    width: 50px;
+}
+
+#btn {
+    border: 20px solid #fff;
+}
