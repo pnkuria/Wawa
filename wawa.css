@@ -18,7 +18,7 @@ p {
 .main {
     border-style:groove;
     border-radius: 150px;
-    border-color: blue;
+    border-color:gray;
 }
 
 .slider{
@@ -29,7 +29,9 @@ input {
     width: 50px;
 }
 
-#btn {
-    border: 20px solid #fff;
-    border-radius: 25px;
+.btn {
+    border-radius: 50px;
+    border: solid;
+    color: #fff;
+
 }
