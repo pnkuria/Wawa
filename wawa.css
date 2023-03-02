@@ -31,4 +31,5 @@ input {
 
 #btn {
     border: 20px solid #fff;
+    border-radius: 25px;
 }
